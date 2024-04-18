@@ -1,3 +1,5 @@
+Currency Converter:
+
 This Project aims to create a Java project that converts currency. This currency calculator can convert between the dollar,euro, rupee, andyen. 
 We `are going to use a switch and function to create a currency converter.
 
